@@ -1,4 +1,4 @@
 
-const apiKey = "sdf" || process.env.API_KEY;
+const apiKey = process.env.API_KEY;
 
 console.log(apiKey);
